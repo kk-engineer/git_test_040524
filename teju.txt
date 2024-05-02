@@ -2,3 +2,4 @@
 # more changes done.
 # Feature completed.
 # fixing a bug #123 in feature
+# Fix bug #126
