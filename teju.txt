@@ -3,3 +3,5 @@
 # Feature completed.
 # fixing a bug #123 in feature
 # Fix bug #126
+# Fix bug #125
+
